@@ -1,4 +1,10 @@
+<<<<<<< f1c12a8dcdf3272ba35f3db0fc2b090b9b9c9e90
+
 # 👋 Welcome to My GitHub –  Oluwatobiloba Abraham
+
+=======
+
+# 👋 Welcome to My GitHub – Oluwatobiloba Abraham
 
 Hi, I’m **Abraham Oluwatobiloba**, a data and analytics professional with extensive experience in data analysis, data science, business reporting, and ICT training, based in Lagos, Nigeria.
 
@@ -20,7 +26,11 @@ I created this repository to:
 - Document my approach to project structure, versioning, and documentation.
 - Provide a clean, professional GitHub presence for recruiters, collaborators, and hiring managers.
 - Serve as a bridge to a dedicated **data analytics and data science portfolio** with end-to-end projects.
+  <<<<<<< f1c12a8dcdf3272ba35f3db0fc2b090b9b9c9e90
 
+=======
+
+> > > > > > > Add about-me, git-workflow, portfolio-plan, and resources content
 
 ---
 
@@ -74,12 +84,22 @@ For more detail, see the pages in [`about-me/`](./about-me/).
 
 ## 📂 Repository Contents
 
+<<<<<<< f1c12a8dcdf3272ba35f3db0fc2b090b9b9c9e90
 | Folder | Description |
 |---|---|
 | [`about-me/`](./about-me/) | My background, interests, and career direction |
 | [`git-workflow/`](./git-workflow/) | My Git conventions, branching strategy, and documentation standards |
 | [`portfolio-plan/`](./portfolio-plan/) | Plan and structure for my upcoming data analytics and data science portfolio |
 | [`resources/`](./resources/) | Curated resources for Git, data, and technology |
+=======
+| Folder                                 | Description                                                                  |
+| -------------------------------------- | ---------------------------------------------------------------------------- |
+| [`about-me/`](./about-me/)             | My background, interests, and career direction                               |
+| [`git-workflow/`](./git-workflow/)     | My Git conventions, branching strategy, and documentation standards          |
+| [`portfolio-plan/`](./portfolio-plan/) | Plan and structure for my upcoming data analytics and data science portfolio |
+| [`resources/`](./resources/)           | Curated resources for Git, data, and technology                              |
+
+> > > > > > > 
 
 ---
 
@@ -88,16 +108,20 @@ For more detail, see the pages in [`about-me/`](./about-me/).
 Some of the areas I have worked on or am developing include:
 
 - **Classification models**  
+  
   - Hypothyroid disease identification  
   - Flowering plant species identification  
 
 - **Regression and prediction**  
+  
   - Boston house-price prediction using regression analysis  
 
 - **Exploratory data analysis**  
+  
   - Google Play Store dataset exploration  
 
 - **Business analytics**  
+  
   - Sales, logistics, and operations data analysis  
   - Dashboards and reports in Excel, Power BI, and Tableau  
 
