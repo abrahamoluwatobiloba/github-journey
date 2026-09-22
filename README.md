@@ -1,8 +1,3 @@
-<<<<<<< f1c12a8dcdf3272ba35f3db0fc2b090b9b9c9e90
-
-# 👋 Welcome to My GitHub –  Oluwatobiloba Abraham
-
-=======
 
 # 👋 Welcome to My GitHub – Oluwatobiloba Abraham
 
@@ -26,11 +21,6 @@ I created this repository to:
 - Document my approach to project structure, versioning, and documentation.
 - Provide a clean, professional GitHub presence for recruiters, collaborators, and hiring managers.
 - Serve as a bridge to a dedicated **data analytics and data science portfolio** with end-to-end projects.
-  <<<<<<< f1c12a8dcdf3272ba35f3db0fc2b090b9b9c9e90
-
-=======
-
-> > > > > > > Add about-me, git-workflow, portfolio-plan, and resources content
 
 ---
 
@@ -84,7 +74,6 @@ For more detail, see the pages in [`about-me/`](./about-me/).
 
 ## 📂 Repository Contents
 
-<<<<<<< f1c12a8dcdf3272ba35f3db0fc2b090b9b9c9e90
 | Folder | Description |
 |---|---|
 | [`about-me/`](./about-me/) | My background, interests, and career direction |
@@ -99,7 +88,6 @@ For more detail, see the pages in [`about-me/`](./about-me/).
 | [`portfolio-plan/`](./portfolio-plan/) | Plan and structure for my upcoming data analytics and data science portfolio |
 | [`resources/`](./resources/)           | Curated resources for Git, data, and technology                              |
 
-> > > > > > > 
 
 ---
 
