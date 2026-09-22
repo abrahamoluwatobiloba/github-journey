@@ -1,14 +1,14 @@
-# 👋 Welcome to My GitHub Journey
+# 👋 Welcome to My GitHub –  Oluwatobiloba Abraham
 
-Hi, I’m **Oluwatobiloba Abraham**, a data and analytics professional based in Lagos, Nigeria.
+Hi, I’m **Abraham Oluwatobiloba**, a data and analytics professional with extensive experience in data analysis, data science, business reporting, and ICT training, based in Lagos, Nigeria.
 
-This repository documents my Git and GitHub learning journey as I strengthen my technical workflow and prepare to publish a professional portfolio in **data analytics and data science**.
+This repository is part of my effort to:
 
-It serves as:
+- Formalize my Git and GitHub workflow.
+- Structure and document my work in a reproducible, professional way.
+- Build a public-facing foundation for my data analytics and data science portfolio.
 
-- A concise introduction to my background and skills.
-- A record of my Git/GitHub learning process.
-- A foundation for my upcoming data project portfolio.
+It combines a brief introduction to my background with structured notes on my GitHub practices and next steps.
 
 ---
 
@@ -16,19 +16,19 @@ It serves as:
 
 I created this repository to:
 
-- Learn and practise Git and GitHub fundamentals.
-- Document my technical learning in a structured, public way.
-- Improve my ability to organize and explain technical work.
-- Build a clean, professional GitHub presence for recruiters and collaborators.
-- Prepare for a dedicated data analytics and data science portfolio.
+- Consolidate my Git/GitHub practices and conventions.
+- Document my approach to project structure, versioning, and documentation.
+- Provide a clean, professional GitHub presence for recruiters, collaborators, and hiring managers.
+- Serve as a bridge to a dedicated **data analytics and data science portfolio** with end-to-end projects.
+
 
 ---
 
 ## 👨🏽‍💻 Professional Background
 
-I have around **5 years of experience** across data analysis, data science, IT training, business reporting, and operational support.
+I have worked across data analysis, data science, IT training, business reporting, and operational support in industries such as technology, education, and logistics.
 
-My background includes:
+My experience includes:
 
 - **Data analysis & visualization**  
   Cleaning, exploring, and visualizing business, health, and operational datasets using Excel, R, Python, Power BI, and Tableau.
@@ -39,10 +39,10 @@ My background includes:
 - **Database & reporting**  
   Working with databases, generating business reports, and supporting decision-making with data.
 
-- **Training & ICT support**  
+- **Training & ICT leadership**  
   Leading ICT departments, training staff and students on data tools, databases, programming basics, and office productivity tools.
 
-For more detail, you can view or request my [CV / résumé] (later linked as `docs/resume.pdf`).
+For more detail, see the pages in [`about-me/`](./about-me/).
 
 ---
 
@@ -64,7 +64,7 @@ For more detail, you can view or request my [CV / résumé] (later linked as `do
 ### Technical and professional
 
 - Git and GitHub
-- Database management (Access, SQL)
+- Database management (Access, SQLite, MySQL)
 - Microsoft Office (Word, PowerPoint, Excel, Outlook)
 - Technical training and documentation
 - Business reporting and dashboards
@@ -77,11 +77,9 @@ For more detail, you can view or request my [CV / résumé] (later linked as `do
 | Folder | Description |
 |---|---|
 | [`about-me/`](./about-me/) | My background, interests, and career direction |
-| [`git-learning/`](./git-learning/) | Notes and practical exercises on Git and GitHub |
-| [`learning-log/`](./learning-log/) | Progress updates, reflections, and next steps |
-| [`resources/`](./resources/) | Useful resources for learning Git, data, and technology |
-
-This repository will grow as I add more structured learning notes and eventually link to my main data portfolio.
+| [`git-workflow/`](./git-workflow/) | My Git conventions, branching strategy, and documentation standards |
+| [`portfolio-plan/`](./portfolio-plan/) | Plan and structure for my upcoming data analytics and data science portfolio |
+| [`resources/`](./resources/) | Curated resources for Git, data, and technology |
 
 ---
 
@@ -132,11 +130,10 @@ I am particularly interested in roles such as:
 
 ---
 
-## 🗺️ My Learning Roadmap
+## 🗺️ Current Focus and Next Steps
 
-- [x] Create my first professional GitHub repository.
-- [ ] Strengthen Git and GitHub workflow (branches, pull requests, collaboration).
-- [ ] Improve Markdown documentation and project structure.
+- [x] Define my Git and GitHub conventions.
+- [x] Set up a clean, professional repository structure.
 - [ ] Organize and refactor existing data projects.
 - [ ] Launch a dedicated data analytics and data science portfolio.
 - [ ] Publish complete EDA, machine learning, and dashboard projects.
@@ -147,7 +144,7 @@ I am particularly interested in roles such as:
 ## 🔗 Connect With Me
 
 - **GitHub**: [github.com/abrahamoluwatobiloba](https://github.com/abrahamoluwatobiloba)  
-- **LinkedIn**: [www.linkedin.com/in/oluwatobiloba-abraham](https://www.linkedin.com/in/oluwatobiloba-abraham)  
-- **Email**: [Add your professional email]  
+- **LinkedIn**: [www.linkedin.com/in/oluwatobiloba-abraham](https://www.linkedin.com/in/oluwatobiloba-abraham)
+- **Email**: [abrahamoluwatobiloba@gmail.com](mailto:abrahamoluwatobiloba@gmail.com) 
 
 Thank you for visiting my repository. I am actively building my skills, documenting my progress, and preparing for opportunities in data analytics and data science.
